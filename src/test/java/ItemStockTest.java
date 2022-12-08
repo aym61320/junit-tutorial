@@ -3,7 +3,6 @@ import org.junit.jupiter.api.*;
 import static org.hamcrest.CoreMatchers.is;
 import static org.hamcrest.MatcherAssert.assertThat;
 
-@DisplayName("ItemStockTの在庫が")
 public class ItemStockTest {
 
   @Nested
